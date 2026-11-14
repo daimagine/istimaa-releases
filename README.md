@@ -18,7 +18,7 @@ This repository hosts the downloadable builds of Istimaa for macOS and Android. 
 | Platform | Version | File | Requirements |
 |---|---|---|---|
 | macOS | 1.2.17 | [Istimaa-1.2.17.dmg](https://github.com/daimagine/istimaa-releases/releases/download/mac-v1.2.17/Istimaa-1.2.17.dmg) | macOS 13 or later |
-| Android | 0.2.15 | [Istimaa-0.2.15.apk](https://github.com/daimagine/istimaa-releases/releases/download/android-v0.2.15/Istimaa-0.2.15.apk) | Android tablets, e-ink readers and phones |
+| Android | 0.2.16 | [Istimaa-0.2.16.apk](https://github.com/daimagine/istimaa-releases/releases/download/android-v0.2.16/Istimaa-0.2.16.apk) | Android tablets, e-ink readers and phones |
 
 All versions and their notes are on the [Releases](https://github.com/daimagine/istimaa-releases/releases) page.
 
